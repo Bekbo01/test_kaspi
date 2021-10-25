@@ -1,6 +1,6 @@
 # test_kaspi
 Датасеты: лежат на https://www.kaggle.com/mattiuzc/stock-exchange-data.
-###Задача:
+### Задача:
 
 1. В БД создать таблицы data, info, processed со структурой как в файлах Data.csv, Info.csv, Processed.csv. Имена полей в исходных файлах хранятся в первых строчках.
 
